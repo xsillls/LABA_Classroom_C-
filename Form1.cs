@@ -16,5 +16,10 @@ namespace Windows_Form_C_
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e) // this is new element
+        {
+
+        }
     }
 }
